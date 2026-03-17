@@ -1,0 +1,23 @@
+packages/desktop/src/widget_factory.rs
+  60118e15ca4c61af 410-413,419,423-424
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "fabacd8e35035720f10400c50f6032c66bf0dffe",
+  "prompts": {
+    "60118e15ca4c61af": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "opencode-transcript-ses_3053d458affealEdi1FGVdhFB8-99373f2a-af44-446d-a72d-0fc1b017349f",
+        "model": "unknown"
+      },
+      "human_author": "Michael Lohr <michael.lohr@spanflug.de>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 6,
+      "accepted_lines": 7,
+      "overriden_lines": 0
+    }
+  }
+}
